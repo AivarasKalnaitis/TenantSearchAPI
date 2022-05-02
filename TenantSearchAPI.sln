@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenantSearchAPI", "TenantSearchAPI.csproj", "{F301A490-F176-4E7B-9C2D-3332015523E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F301A490-F176-4E7B-9C2D-3332015523E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F301A490-F176-4E7B-9C2D-3332015523E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F301A490-F176-4E7B-9C2D-3332015523E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F301A490-F176-4E7B-9C2D-3332015523E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38BE2299-D1C1-4720-B35D-D2037C6C9D4E}
+	EndGlobalSection
+EndGlobal
